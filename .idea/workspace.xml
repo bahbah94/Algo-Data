@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45ce05cc-0ca5-41c2-8813-327b6e1bf6a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary/recur-binary/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queues/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,11 +49,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binary/recur-binary/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-241">
+            <state relative-caret-position="-114">
               <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Queues/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Stack/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -80,6 +97,8 @@
         <option value="$PROJECT_DIR$/bubble/stringsort/main.go" />
         <option value="$PROJECT_DIR$/binary/main.go" />
         <option value="$PROJECT_DIR$/binary/recur-binary/main.go" />
+        <option value="$PROJECT_DIR$/Queues/main.go" />
+        <option value="$PROJECT_DIR$/Stack/main.go" />
       </list>
     </option>
   </component>
@@ -93,8 +112,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="445" />
-    <option name="y" value="43" />
+    <option name="x" value="589" />
+    <option name="y" value="47" />
     <option name="width" value="832" />
     <option name="height" value="707" />
   </component>
@@ -114,13 +133,12 @@
             <path>
               <item name="Algo-Data" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algo-Data" type="462c0819:PsiDirectoryNode" />
-              <item name="binary" type="462c0819:PsiDirectoryNode" />
+              <item name="Queues" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algo-Data" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algo-Data" type="462c0819:PsiDirectoryNode" />
-              <item name="binary" type="462c0819:PsiDirectoryNode" />
-              <item name="recur-binary" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,7 +168,7 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="445" y="43" width="832" height="707" extended-state="0" />
+    <frame x="589" y="47" width="832" height="707" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -208,8 +226,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/binary/recur-binary/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
+        <state relative-caret-position="-114">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queues/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
         </state>
       </provider>
     </entry>
